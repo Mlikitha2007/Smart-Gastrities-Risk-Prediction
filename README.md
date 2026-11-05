@@ -1,5 +1,3 @@
-# Smart-Gastrities-Risk-Prediction
-A machine learning case study that uses a Random Forest Classifier to predict gastritis risk categories from patient-related health data using a synthetic dataset.
 # Smart Gastritis Risk Prediction
 
 ## Project Overview
